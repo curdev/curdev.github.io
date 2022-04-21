@@ -1,22 +1,15 @@
 <script lang="ts">
   import logo from './assets/svelte.png'
-  import Counter from './lib/Counter.svelte'
 </script>
 
 <main>
   <img src={logo} alt="Svelte Logo" />
-  <h1>Hello Typescript!</h1>
-
-  <Counter />
+  <h1>Under Construction</h1>
 
   <p>
-    Visit <a href="https://svelte.dev">svelte.dev</a> to learn how to build Svelte
-    apps.
-  </p>
-
-  <p>
-    Check out <a href="https://github.com/sveltejs/kit#readme">SvelteKit</a> for
-    the officially supported framework, also powered by Vite!
+    Welcome to CurDev.tech! I am undergoing a complete re-write of this site! I previously
+    had a quick WordPress site. But as a software engineer I wanted to overhaul this myself 
+    and create a website by scratch! Come back soon to see my site created with Svelte!
   </p>
 </main>
 
